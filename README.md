@@ -56,7 +56,7 @@ Main cleaning steps included:
 
 Python Cleaning Notebook:
 
-[View Data Cleaning Notebook](notebooks/credit_risk_cleaning.ipynb)
+[View Data Cleaning Notebook](https://github.com/vtpatel/Credit-Risk-Analysis/blob/main/credit_risk_cleaning.ipynb)
 
 ---
 
