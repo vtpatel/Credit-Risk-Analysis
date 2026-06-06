@@ -81,7 +81,7 @@ Main analysis areas included:
 
 SQL File:
 
-[View SQL Analysis](sql/credit_risk_analysis.sql)
+[View SQL Analysis](https://github.com/vtpatel/Credit-Risk-Analysis/blob/main/credit_risk_analysis.sql)
 
 ---
 
