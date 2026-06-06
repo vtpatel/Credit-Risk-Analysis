@@ -56,7 +56,7 @@ Main cleaning steps included:
 
 Python Cleaning Notebook:
 
-[View Data Cleaning Notebook](notebooks/credit_risk_data_cleaning.ipynb)
+[View Data Cleaning Notebook](notebooks/credit_risk_cleaning.ipynb)
 
 ---
 
@@ -233,7 +233,7 @@ Based on the analysis, the following recommendations can help reduce loan defaul
 credit-risk-analysis-lending-club/
 │
 ├── notebooks/
-│   └── credit_risk_data_cleaning.ipynb
+│   └── credit_risk_cleaning.ipynb
 │
 ├── sql/
 │   └── credit_risk_analysis.sql
